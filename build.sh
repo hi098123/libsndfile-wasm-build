@@ -16,9 +16,9 @@ fi
 #opus_targz='https://downloads.xiph.org/releases/opus/opus-1.5.2.tar.gz'
 
 #Github copied
-mpg123_tarbz2='https://github.com/hi098123/libsndfile-wasm-build/raw/refs/heads/1.2.2/mpg123-1.32.9.tar.bz2'
-lame_targz='https://github.com/hi098123/libsndfile-wasm-build/raw/refs/heads/1.2.2/lame-3.100.tar.gz'
-opus_targz='https://github.com/hi098123/libsndfile-wasm-build/raw/refs/heads/1.2.2/opus-1.5.2.tar.gz'
+mpg123_tarbz2='https://github.com/hi098123/libsndfile-wasm-build/raw/refs/tags/1.2.2/mpg123-1.32.9.tar.bz2'
+lame_targz='https://github.com/hi098123/libsndfile-wasm-build/raw/refs/tags/1.2.2/lame-3.100.tar.gz'
+opus_targz='https://github.com/hi098123/libsndfile-wasm-build/raw/refs/tags/1.2.2/opus-1.5.2.tar.gz'
 
 BUILD_PATH=$PWD
 
